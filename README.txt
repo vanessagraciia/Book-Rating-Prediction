@@ -1,6 +1,4 @@
-COMP30027 Assignment 2 
 Name: Vanessa Gracia Tan
-Student ID: 1297696 
 
 The function should be run from top to bottom
 
